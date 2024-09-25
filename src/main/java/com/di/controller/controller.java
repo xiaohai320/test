@@ -8,6 +8,6 @@ public class controller {
 
     @RequestMapping("/")
     public String helloword(){
-        return "finall11y";
+        return "结束";
     }
 }
